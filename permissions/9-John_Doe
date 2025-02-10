@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod 751 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+chmod 753 hello
+
