@@ -1,2 +1,2 @@
 #!/bin/bash
--d":" --fields=1,6 /etc/passwd | sortcut -d":" --fields=1,6 /etc/passwd
+sortcut -d":" --fields=1,6 /etc/passwd | sortcut -d":" --fields=1,6 /etc/passwd
