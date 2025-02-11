@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x  $permissions olleh
+chmod$permissions hello olleh
