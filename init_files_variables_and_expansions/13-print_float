@@ -1,0 +1,3 @@
+#!/bin/bash
+export NUM=3.14159
+./script.sh
